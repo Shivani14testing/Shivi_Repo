@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-20T11:17:50 CDT" name="Default suite" finished-at="2022-08-20T11:17:51 CDT" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2022-08-20T11:17:50 CDT" name="Default test" finished-at="2022-08-20T11:17:51 CDT" duration-ms="46">
+      <class name="com.com.test.ngTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:50 CDT" name="beforeSuite" finished-at="2022-08-20T11:17:50 CDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:50 CDT" name="beforeMethod" finished-at="2022-08-20T11:17:50 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="a1()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:50 CDT" name="a1" finished-at="2022-08-20T11:17:51 CDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:51 CDT" name="afterMethod" finished-at="2022-08-20T11:17:51 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:51 CDT" name="beforeMethod" finished-at="2022-08-20T11:17:51 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:51 CDT" name="f" finished-at="2022-08-20T11:17:51 CDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.com.test.ngTest@66498326]" started-at="2022-08-20T11:17:51 CDT" name="afterMethod" finished-at="2022-08-20T11:17:51 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.com.test.ngTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
